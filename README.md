@@ -2,7 +2,7 @@ Oiii, galera!
 
 📣 Desafio Data Glow Up # 17
 
-Esse dataviz faz parte do projeto do Heitor Saazaki (https://www.linkedin.com/in/heitorsasaki/).
+Esse dataviz faz parte do projeto do Heitor Sasaki (https://www.linkedin.com/in/heitorsasaki/).
 Toda semana é postado um desafio no seu LinkedIn.
 É uma forma de melhorar o portfólio e aumentar a divulgação do seu trabalho na rede.
 
